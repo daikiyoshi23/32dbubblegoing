@@ -646,6 +646,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHeight: 9
   jumpVerocity: 7
+  movingVelocityX: 3
+  bubbleSprite: {fileID: 91481226}
 --- !u!1 &1209529835
 GameObject:
   m_ObjectHideFlags: 0
